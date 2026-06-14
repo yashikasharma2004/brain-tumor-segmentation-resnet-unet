@@ -1,4 +1,3 @@
-# brain-tumor-segmentation-resnet-unet
 # Brain Tumor Segmentation using ResNet34-UNet
 
 Pixel-level brain tumor segmentation using 

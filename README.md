@@ -186,7 +186,7 @@ brain-tumor-segmentation-resnet-unet/
 
 Try the model live — upload a brain MRI scan and get instant tumor segmentation:
 
-**👉 [Launch Demo on Hugging Face Spaces](https://huggingface.co/spaces/yashikasharma2004/brain-tumor-segmentation)**
+**👉 https://huggingface.co/spaces/yashikaSharma/brain-tumor-segmentation**
 
 ---
 
